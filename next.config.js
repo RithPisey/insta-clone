@@ -2,7 +2,10 @@
 const nextConfig = {
 	reactStrictMode: true,
 	images: {
-		domains: ["upload.wikimedia.org", "insta-clone-liart.vercel.app"],
+		domains: [
+			"https://upload.wikimedia.org",
+			"https://insta-clone-liart.vercel.app",
+		],
 		remotePatterns: [
 			{
 				protocol: "https",
