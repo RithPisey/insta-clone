@@ -9,7 +9,7 @@ const nextConfig = {
 		remotePatterns: [
 			{
 				protocol: "https",
-				hostname: "upload.wikimedia.org",
+				hostname: "insta-clone-liart.vercel.app",
 				port: "",
 				pathname: "/**",
 			},
