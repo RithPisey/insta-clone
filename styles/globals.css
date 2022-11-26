@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.navBtn {
+		@apply hidden h-6 md:inline-flex cursor-pointer hover:scale-125 transition-all duration-150 ease-out;
+	}
+	.sugScroll::-webkit-scrollbar {
+		height: 8px;
+	}
+	.sugScroll::-webkit-scrollbar-thumb {
+		background-color: black;
+		border-radius: 5px;
+	}
+	.sugScroll::-webkit-scrollbar-thum:hover {
+		background-color: #555;
+	}
+	.btnPost {
+		@apply h-7 hover:scale-125 cursor-pointer transition-all duration-150 ease-out;
+	}
+}
