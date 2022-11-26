@@ -30,7 +30,7 @@ function Header() {
 					{/* https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png */}
 					<Image
 						priority
-						src=' https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png'
+						src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png'
 						width={35}
 						height={35}
 						alt=''
@@ -42,7 +42,7 @@ function Header() {
 				>
 					<Image
 						priority
-						src=' https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png'
+						src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png'
 						width={100}
 						height={100}
 						alt=''
